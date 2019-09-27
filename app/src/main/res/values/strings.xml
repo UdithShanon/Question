@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">addQuestion</string>
+    <string name="input1">UserName</string>
+    <string name="input2">Email</string>
+    <string name="input3">PhoneNo</string>
+    <string name="input4">AddQuestion</string>
+    <string name="btn1">Submit</string>
+    <string name="btn2">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="feedback">Feedback ID</string>
+    <string name="updateAnswer">AddAnswer</string>
+
+</resources>
